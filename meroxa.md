@@ -1,5 +1,4 @@
 # Meroxa Deal Memo
-Pitch deck: *redacted*
   
 Demo: https://drive.google.com/file/d/1JqkWaOmU_urNSKFGfqMHbmREQMgsirj9/view
 
