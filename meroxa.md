@@ -33,7 +33,7 @@ Demo: https://drive.google.com/file/d/1JqkWaOmU_urNSKFGfqMHbmREQMgsirj9/view
 
 Part of the Meroxa technology is the suite of connectors to data sources and destinations, which include things like application databases, data warehouses, document stores, and streams, as well as third-party SaaS application sources like Stripe Connect or Netsuite, and destinations like Slack or SMS via Twilio. This part of the products feels like a sort of Mulesoft that works at the data level rather than the API level, and ends up building value for the customer based on the number of integrations and level of support for difficult integration points, as Plaid and Stripe do.
 
-Another part is the PaaS, which makes it easy to build a data infrastructure. It also gives Meroxa something of a moat for customers, since they do own those services an the data in them. Yet another way to think about Meroxa is as Mulesoft but for SQL stores and 3rd party SaaS apps instead of APIs.
+Another part is the PaaS, which makes it easy to build a data infrastructure. It also gives Meroxa something of a moat for customers, since they do own those services and the data in them. Yet another way to think about Meroxa is as Mulesoft but for SQL stores and 3rd party SaaS apps instead of APIs.
 
 With so many components to this product, one challenge Meroxa will have in the early days is identifying the highest value use case and focusing on that customer segment. Do you sell this as an EDW? An alternative to managed Kafka? A replacement for ETLs? A staff augmentation for data engineering teams? A number of pilot customers exist, but this question won't be answered with confidence until it's been tested further.
 
@@ -66,7 +66,7 @@ We have observed that margins on cloud compute for a PaaS vendor built on top of
 One path exists for Meroxa to simply charge the user a premium on top of their own hosting costs. This price might be anchored against the cost to build, host, and maintain data services internally, which would include hiring more data engineers. Other possible paths exist. Certainly on the high end, there is a strong argument for value-based pricing.
 
 ## Competitors
-Fivetran offers a very similar promise and is well-funded and further along. Meroxa’s approach is different from a developer experience perspective. DeVaris and Ali draw heavy inspiration from Heroku and are building a CLI-first product with a focus on developer ergonomics. Fivetran is focused on ETL tools, which run asynchronously, and do not create data streams internally. Many similar ETL tools/comapnies exist.
+Fivetran offers a very similar promise and is well-funded and further along. Meroxa’s approach is different from a developer experience perspective. DeVaris and Ali draw heavy inspiration from Heroku and are building a CLI-first product with a focus on developer ergonomics. Fivetran is focused on ETL tools, which run asynchronously, and do not create data streams internally. Many similar ETL tools/companies exist.
 
 StreamSets deals with the stream part of this product, but not the source/destination provisioning and management.
 
@@ -100,7 +100,7 @@ _Heavily edited, some removed, as some of this looks the way 360-feedback looks 
 
 ### _Big tech executive, mentor to DeVaris_
 * Mentoring DeVaris for awhile
-* Big believer in the idea, and the long term largest vision of “the data lake with data tributaries” lol the data as water anaologies never stop
+* Big believer in the idea, and the long term largest vision of “the data lake with data tributaries” lol the data as water analogies never stop
 
 ### _DeVaris' former direct manager_
 * DeVaris has a strong business sense
