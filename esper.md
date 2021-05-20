@@ -1,7 +1,7 @@
 # Investment Memo for Esper (fka Shoonya)
 Investment: Root Ventures (Kane) led the Seed round in February 2018 (with Lee participating as an angel investor, before he joined Root.) Root also co-led a subsequent Seed extension, and participated in the Series A and Series B.
 
-_Note: A big part of Shoonya's pitch at the time involved providing low-cost hardware. In the first year, it became apparent that most customers wanted "bring your own device," and were primarily interested in Shoonya's software. This precipitated a change in focus and startegy from bundling hardware, OS, and cloud services, into providing pure software. Accordingly, Yadhu became CEO, and the company strategy shifted. More on that story in Avidan's tweetstorm here._
+_Note: A big part of Esper's pitch at the time involved providing low-cost hardware. In the first year, it became apparent that most customers wanted "bring your own device," and were primarily interested in Esper's software. This precipitated a change in focus and startegy from bundling hardware, OS, and cloud services, into providing pure software. Accordingly, Yadhu became CEO, and the company strategy shifted. More on that story in Avidan's tweetstorm here._
 
 ## Company
 Esper provides secure managed embedded/thin (ie single-application) Google-certified Android. It also provides mobile device management (MDM), over-the-air updates (OTA) of applications and OS, one-click-provisioning, business analytics, and turnkey hardware. Esper allows enterprise customers to rapidly deploy Android apps on hardware endpoints without having to manage a hardware supply chain, OS-level security, or over-the-air updates of their devices.
