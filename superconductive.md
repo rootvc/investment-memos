@@ -84,7 +84,7 @@ Abe has self-funded development of GE through his consulting agency that provide
 _(details redacted)_
 
 ## Diligence Calls
-### Brian Wilt, former Head of Data at Jawbone, current Dir, Decision Science at FB
+### Brian Wilt, former Head of Data at Jawbone, current Sr Manager, Decision Science at FB
 Brian is one the best data leaders I know, I gave him an offer at Teespring that he sadly declined, we’ve stayed close
 * He was Abe’s manager at Jawbone
 * Abe Gong comes highly recommended by Brian - he made the intro
