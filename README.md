@@ -12,3 +12,4 @@ Some things have to be edited/redacted, particularly around personal references 
   * and [angel investment memo](https://github.com/ledwards/investment-memos/blob/main/esper.md) by Lee
 * [Superconductive](superconductive.md) by Lee
 * [Meroxa](meroxa.md) by Lee
+* [Zed](zed.md) by Lee
