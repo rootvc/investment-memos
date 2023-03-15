@@ -1,7 +1,8 @@
 # Zed
 
 Pitch memo (Redacted: Zed had a pitch memo rather than a pitch deck!)
-[Demo Video](https://www.loom.com/share/d165fd054a294d8a8587807bcc50c885) very old demo!
+
+[Demo Video](https://www.loom.com/share/d165fd054a294d8a8587807bcc50c885) (very old demo)
 
 ## Summary
 Zed is a text editor or IDE (integrated development environment) for developers designed with speed and collaboration as the primary considerations. Today’s most popular IDE is Microsoft’s VSCode, which came out of nowhere in November 2015 to now hold 51% market share, a dark horse particularly among web developers who had never been fans of its predecessor, Visual Studio. VSCode is mainly beloved for its ease of use, extensibility, and broad polyglot support owed to its innovative Language Server Protocol system which allows language developers to ship plugins that run in their own threads, doing things like syntax highlighting and real-time error checking. VSCode is also feature rich, shipping a steady stream of lots of nice features like allowing you to edit files on a remote SSH server seamlessly within your local copy of VSCode, and a fully featured built-in terminal.
