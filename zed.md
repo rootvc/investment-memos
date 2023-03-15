@@ -1,4 +1,4 @@
-#Zed
+# Zed
 
 Pitch memo (Redacted: Zed had a pitch memo rather than a pitch deck!)
 [Demo Video](https://www.loom.com/share/d165fd054a294d8a8587807bcc50c885) very old demo!
